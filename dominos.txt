@@ -1,2 +1,4 @@
 this is my first git practise
 my second change in the file
+
+CHecking the changes
